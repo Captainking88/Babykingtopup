@@ -16,7 +16,7 @@ var telegram_group_link = "telegram group link";
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "https://youtube.com/@captainking4148?si=p_7Fr2CnjFXxk7vF";
 
 // =======================================================
 // NOTIFICATION TEXT
