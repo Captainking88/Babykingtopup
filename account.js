@@ -6,7 +6,7 @@ var website_name = "Baby King";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "https://t.me/sohangfx";
+var telegram_channel_link = "@Babyking_helpline_bot";
 
 // =======================================================
 // TELEGRAM GROUP LINK
